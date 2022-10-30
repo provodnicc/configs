@@ -1,4 +1,4 @@
-pkg install zsh vim
+pkg install zsh vim -y
 
 chsh -s zsh
 
