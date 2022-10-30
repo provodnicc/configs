@@ -1,2 +1,2 @@
 # configs
-### chmod +x ./base-config.sh
+### 'chmod +x ./base-config.sh'
