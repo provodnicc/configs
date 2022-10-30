@@ -18,3 +18,5 @@ echo 'plugins=(
     zsh-autosuggestions
     zsh-syntax-highliting
 )' >> ${ZDOTDIR:-$HOME}/.zshrc
+
+exec zsh
